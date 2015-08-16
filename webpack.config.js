@@ -1,5 +1,9 @@
 var path = require("path");
 var webpack = require("webpack");
+var PluginManager = require("./src/Plugin/Manager")
+
+PluginManager.
+
 module.exports = {
 	cache: true,
 	entry: {
