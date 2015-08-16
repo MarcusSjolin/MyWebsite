@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "This is a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Sjölin <marcussjolin@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "webpack": "^1.11.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.10.1"
+  }
+}
