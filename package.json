@@ -9,9 +9,12 @@
   "author": "Marcus Sjölin <marcussjolin@icloud.com>",
   "license": "ISC",
   "dependencies": {
+    "deepmerge": "^0.2.10",
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
-    "webpack": "^1.11.0"
+    "node-sass": "^3.2.0",
+    "webpack": "^1.11.0",
+    "website-plugin-sass": "git+https://github.com/MarcusSjolin/website-plugin-sass.git"
   },
   "devDependencies": {
     "webpack-dev-server": "^1.10.1"
